@@ -15,3 +15,4 @@ def extract_text(path):
         return ""
 
     return text
+    #in utils folder both extractor and summarizer.py
